@@ -142,6 +142,9 @@ int main()
     int gdriver = DETECT, gmode;
     initgraph (&gdriver, &gmode, NULL);
     initwindow(1280, 960);                  //graphics window size
+    readimagefile("Logo.jpg", 0,80, 1280, 720);
+    delay(2000);
+    cleardevice();
     player_names();
     health_bar1(100);
     health_bar2(100);
