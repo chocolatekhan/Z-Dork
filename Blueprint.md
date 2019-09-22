@@ -5,7 +5,7 @@
 - [x] Attack success random
 - [x] Attack Function
 - [ ] Figure out simple way to display interface.
-- [ ] Health bars
+- [x] Health bars
 - [ ] Character images
 - [ ] Win screen
 
