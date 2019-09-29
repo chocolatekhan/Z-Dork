@@ -53,7 +53,8 @@ The project timeline has been updated to reflect the changes in objectives. Work
 - -[ ] Add option to save game.
 
 23.09.2019 - 29.09.2019 (Week 11)
-- -[ ] Work on increasing scope of game further if possible and improve interface
+- -[x] Improve gameplay algorithm
+- -[ ] Improve interface
 
 20.09.2019 - 06.10.2019 (Week 12)
 - -[ ] Integrate graphics.
