@@ -31,7 +31,7 @@ The project timeline has been updated to reflect the changes in objectives. Work
 - -[x] ~~Work out enemy logic and actions.~~
 
 05.08.2019 – 11.08.2019	(Week 4)
-- -[ ] Add scoring system.
+- -[x] Add scoring system.
 - -[ ] ~~Add team-based fighting system.~~
 
 12.08.2019 – 18.08.2019	(Week 5)
@@ -54,10 +54,10 @@ The project timeline has been updated to reflect the changes in objectives. Work
 
 23.09.2019 - 29.09.2019 (Week 11)
 - -[x] Improve gameplay algorithm
-- -[ ] Improve interface
+- -[x] Improve interface
 
 20.09.2019 - 06.10.2019 (Week 12)
-- -[ ] Integrate graphics.
+- -[x] Integrate graphics.
 
 07.10.2019 - 13.10.2019 (Week 13)
 - -[ ] Final testing and debugging.
