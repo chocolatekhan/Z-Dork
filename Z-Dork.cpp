@@ -141,7 +141,7 @@ int reset()
 {
     player1.health = 100;
     player1.heal_potion = 5;
-    player2.health = 10;
+    player2.health = 100;
     player2.heal_potion = 5;
     cleardevice();
     round(player1.score+player2.score+1);
