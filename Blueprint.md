@@ -6,8 +6,8 @@
 - [x] Attack Function
 - [x] Figure out simple way to display interface. [Text being shown in different places of graphics window. Input taken directly from graphics window.]
 - [x] Health bars
-- [ ] Character images
-- [ ] Win screen
+- [x] Character images
+- [x] Win screen
 
 
 ### Ideas:
