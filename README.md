@@ -50,7 +50,7 @@ The project timeline has been updated to reflect the changes in objectives. Work
 - -[x] Increase scope of game to include multiple rounds.
 
 16.09.2019 – 22.09.2019	(Week 10)
-- -[ ] Add option to save game.
+- -[x] Add option to save game.
 
 23.09.2019 - 29.09.2019 (Week 11)
 - -[x] Improve gameplay algorithm
@@ -60,4 +60,4 @@ The project timeline has been updated to reflect the changes in objectives. Work
 - -[x] Integrate graphics.
 
 07.10.2019 - 13.10.2019 (Week 13)
-- -[ ] Final testing and debugging.
+- -[x] Final testing and debugging.
