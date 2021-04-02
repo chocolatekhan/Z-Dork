@@ -1,0 +1,7 @@
+Presentation Guidelines:
+•	The slides should contain points not paragraphs.
+•	If required, use graphs/images.
+•	Maintain a proper order/chronology - (first project idea, motivation, objective, etc., then Project Requirements, and then the Timeline and Future work of the project).
+•	Text size should be standard (not too large or too small) and there should be contrast between the text and background (dark and light, not both dark or both light).
+•	Always keep slide numbers in the presentation.
+•	There should be slide titles in each slide (for better understanding of the presentation flow).
